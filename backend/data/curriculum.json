@@ -1,0 +1,4352 @@
+[
+  {
+    "title": "1. Engineering Mathematics",
+    "children": [
+      {
+        "title": "1.1 Set Theory",
+        "children": [
+          {
+            "title": "Sets, Representation of Sets & Hierarchy of Numbers",
+            "children": []
+          },
+          {
+            "title": "Finite, Infinite, Countable & Uncountable Sets",
+            "children": []
+          },
+          {
+            "title": "Null, Universal, Subsets & Proper Subsets",
+            "children": []
+          },
+          {
+            "title": "Power Set & Cardinality",
+            "children": []
+          },
+          {
+            "title": "Set Operations",
+            "children": [
+              {
+                "title": "Union",
+                "children": []
+              },
+              {
+                "title": "Intersection",
+                "children": []
+              },
+              {
+                "title": "Complement",
+                "children": []
+              },
+              {
+                "title": "Set Difference",
+                "children": []
+              },
+              {
+                "title": "Symmetric Difference",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "1.2 Relations",
+        "children": [
+          {
+            "title": "Cartesian Product",
+            "children": []
+          },
+          {
+            "title": "Relation, Inverse & Complement",
+            "children": []
+          },
+          {
+            "title": "Reflexive & Irreflexive Relations",
+            "children": []
+          },
+          {
+            "title": "Symmetric, Anti-Symmetric & Asymmetric Relations",
+            "children": []
+          },
+          {
+            "title": "Transitive Relation",
+            "children": []
+          },
+          {
+            "title": "Equivalence Relation & Equivalence Classes",
+            "children": []
+          },
+          {
+            "title": "Partial Order Relation & Poset",
+            "children": []
+          },
+          {
+            "title": "Hasse Diagram",
+            "children": []
+          },
+          {
+            "title": "Greatest & Least Element",
+            "children": []
+          },
+          {
+            "title": "Upper & Lower Bound",
+            "children": []
+          },
+          {
+            "title": "Least Upper Bound & Greatest Lower Bound",
+            "children": []
+          },
+          {
+            "title": "Lattice",
+            "children": []
+          },
+          {
+            "title": "Bounded & Unbounded Lattice",
+            "children": []
+          },
+          {
+            "title": "Distributive Lattice",
+            "children": []
+          },
+          {
+            "title": "Complemented Lattice",
+            "children": []
+          },
+          {
+            "title": "Boolean Algebra",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "1.3 Functions",
+        "children": [
+          {
+            "title": "Function — Domain, Co-domain & Range",
+            "children": []
+          },
+          {
+            "title": "Number of Possible Functions",
+            "children": []
+          },
+          {
+            "title": "Composition of Functions",
+            "children": []
+          },
+          {
+            "title": "One-to-One (Injective) Function",
+            "children": []
+          },
+          {
+            "title": "Onto (Surjective) Function",
+            "children": []
+          },
+          {
+            "title": "Bijective Function",
+            "children": []
+          },
+          {
+            "title": "Inverse of a Function",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "1.4 Graph Theory",
+        "children": [
+          {
+            "title": "Introduction to Graphs",
+            "children": []
+          },
+          {
+            "title": "Types of Graphs",
+            "children": [
+              {
+                "title": "Finite Graph",
+                "children": []
+              },
+              {
+                "title": "Infinite Graph",
+                "children": []
+              },
+              {
+                "title": "Null Graph",
+                "children": []
+              },
+              {
+                "title": "Trivial Graph",
+                "children": []
+              },
+              {
+                "title": "Complete Graph",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Bipartite Graph",
+            "children": []
+          },
+          {
+            "title": "Cycle Graph",
+            "children": []
+          },
+          {
+            "title": "Regular Graph",
+            "children": []
+          },
+          {
+            "title": "Complement of a Graph",
+            "children": []
+          },
+          {
+            "title": "Number of Graphs",
+            "children": []
+          },
+          {
+            "title": "Degree of Vertex",
+            "children": []
+          },
+          {
+            "title": "Isolated & Pendant Vertices",
+            "children": []
+          },
+          {
+            "title": "Handshaking Theorem",
+            "children": []
+          },
+          {
+            "title": "Degree Sequence",
+            "children": []
+          },
+          {
+            "title": "Minimum & Maximum Degree",
+            "children": []
+          },
+          {
+            "title": "Havel-Hakimi Theorem",
+            "children": []
+          },
+          {
+            "title": "Walk, Trail & Path",
+            "children": []
+          },
+          {
+            "title": "Connected Graph",
+            "children": []
+          },
+          {
+            "title": "Euler Graph",
+            "children": []
+          },
+          {
+            "title": "Hamiltonian Graph",
+            "children": []
+          },
+          {
+            "title": "Planar Graph",
+            "children": []
+          },
+          {
+            "title": "Euler Formula",
+            "children": []
+          },
+          {
+            "title": "Graph Coloring",
+            "children": []
+          },
+          {
+            "title": "Trees",
+            "children": []
+          },
+          {
+            "title": "Eccentricity, Diameter, Radius & Center",
+            "children": []
+          },
+          {
+            "title": "Spanning Tree",
+            "children": []
+          },
+          {
+            "title": "Spanning Forest",
+            "children": []
+          },
+          {
+            "title": "Cut Set",
+            "children": []
+          },
+          {
+            "title": "Edge Connectivity",
+            "children": []
+          },
+          {
+            "title": "Vertex Connectivity",
+            "children": []
+          },
+          {
+            "title": "Graph Isomorphism",
+            "children": []
+          },
+          {
+            "title": "Graph Matching",
+            "children": []
+          },
+          {
+            "title": "Graph Covering",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "1.5 Group Theory",
+        "children": [
+          {
+            "title": "Closure Property & Algebraic Structure",
+            "children": []
+          },
+          {
+            "title": "Associative Property",
+            "children": []
+          },
+          {
+            "title": "Semi-Group",
+            "children": []
+          },
+          {
+            "title": "Identity Property",
+            "children": []
+          },
+          {
+            "title": "Monoid",
+            "children": []
+          },
+          {
+            "title": "Inverse Property",
+            "children": []
+          },
+          {
+            "title": "Group",
+            "children": []
+          },
+          {
+            "title": "Commutative Property",
+            "children": []
+          },
+          {
+            "title": "Abelian Group",
+            "children": []
+          },
+          {
+            "title": "Finite & Infinite Groups",
+            "children": []
+          },
+          {
+            "title": "Order of a Group",
+            "children": []
+          },
+          {
+            "title": "Addition Modulo & Multiplication",
+            "children": []
+          },
+          {
+            "title": "Subgroup",
+            "children": []
+          },
+          {
+            "title": "Order of an Element",
+            "children": []
+          },
+          {
+            "title": "Generating Element",
+            "children": []
+          },
+          {
+            "title": "Cyclic Group",
+            "children": []
+          },
+          {
+            "title": "Lagrange's Theorem",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "1.6 Propositional and Predicate Logic",
+        "children": [
+          {
+            "title": "Proposition",
+            "children": []
+          },
+          {
+            "title": "Atomic & Compound Proposition",
+            "children": []
+          },
+          {
+            "title": "Negation",
+            "children": []
+          },
+          {
+            "title": "Conjunction",
+            "children": []
+          },
+          {
+            "title": "Disjunction",
+            "children": []
+          },
+          {
+            "title": "Implication",
+            "children": []
+          },
+          {
+            "title": "Bi-Conditional",
+            "children": []
+          },
+          {
+            "title": "Tautology",
+            "children": []
+          },
+          {
+            "title": "Contradiction",
+            "children": []
+          },
+          {
+            "title": "Contingency",
+            "children": []
+          },
+          {
+            "title": "Satisfiability",
+            "children": []
+          },
+          {
+            "title": "Validity",
+            "children": []
+          },
+          {
+            "title": "First Order Predicate Logic",
+            "children": []
+          },
+          {
+            "title": "Universal Quantifier",
+            "children": []
+          },
+          {
+            "title": "Existential Quantifier",
+            "children": []
+          },
+          {
+            "title": "Quantifier Negation",
+            "children": []
+          },
+          {
+            "title": "Ordering of Quantifiers",
+            "children": []
+          },
+          {
+            "title": "Functional Completeness",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "1.7 Linear Algebra",
+        "children": [
+          {
+            "title": "Matrices & Vectors",
+            "children": []
+          },
+          {
+            "title": "Dot Product of Vectors",
+            "children": []
+          },
+          {
+            "title": "Types of Matrices",
+            "children": []
+          },
+          {
+            "title": "Orthogonal Matrix",
+            "children": []
+          },
+          {
+            "title": "Idempotent Matrix",
+            "children": []
+          },
+          {
+            "title": "Involutary Matrix",
+            "children": []
+          },
+          {
+            "title": "Nilpotent Matrix",
+            "children": []
+          },
+          {
+            "title": "Equality of Matrices",
+            "children": []
+          },
+          {
+            "title": "Matrix Addition & Multiplication",
+            "children": []
+          },
+          {
+            "title": "Transpose of a Matrix",
+            "children": []
+          },
+          {
+            "title": "Elementary Row & Column Operations",
+            "children": []
+          },
+          {
+            "title": "Determinant of a Matrix",
+            "children": []
+          },
+          {
+            "title": "Determinant of Big Matrices",
+            "children": []
+          },
+          {
+            "title": "Properties of Determinants",
+            "children": []
+          },
+          {
+            "title": "Co-Factor Matrix",
+            "children": []
+          },
+          {
+            "title": "Adjoint of a Matrix",
+            "children": []
+          },
+          {
+            "title": "Inverse of a Matrix",
+            "children": []
+          },
+          {
+            "title": "Properties of Adjoint & Inverse",
+            "children": []
+          },
+          {
+            "title": "Rank of a Matrix",
+            "children": []
+          },
+          {
+            "title": "Gauss Elimination Method",
+            "children": []
+          },
+          {
+            "title": "Properties of Rank",
+            "children": []
+          },
+          {
+            "title": "System of Linear Equations",
+            "children": []
+          },
+          {
+            "title": "Solution Set",
+            "children": []
+          },
+          {
+            "title": "Under-determined & Over-determined Systems",
+            "children": []
+          },
+          {
+            "title": "Independent System of Linear Equations",
+            "children": []
+          },
+          {
+            "title": "Consistent System of Equations",
+            "children": []
+          },
+          {
+            "title": "Echelon Form",
+            "children": []
+          },
+          {
+            "title": "Diagonal Matrix Method",
+            "children": []
+          },
+          {
+            "title": "Cramer's Rule",
+            "children": []
+          },
+          {
+            "title": "Matrix Solution",
+            "children": []
+          },
+          {
+            "title": "Homogeneous System of Linear Equations",
+            "children": []
+          },
+          {
+            "title": "Trace of a Matrix",
+            "children": []
+          },
+          {
+            "title": "Eigen Values & Eigen Vectors",
+            "children": []
+          },
+          {
+            "title": "Properties of Eigen Values & Eigen Vectors",
+            "children": []
+          },
+          {
+            "title": "Diagonalization",
+            "children": []
+          },
+          {
+            "title": "LU Decomposition",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "1.8 Calculus",
+        "children": [
+          {
+            "title": "1.8.1 Limits",
+            "children": [
+              {
+                "title": "Properties of Limits",
+                "children": []
+              },
+              {
+                "title": "Indeterminate Forms",
+                "children": []
+              },
+              {
+                "title": "Non-Indeterminate Forms",
+                "children": []
+              },
+              {
+                "title": "Substitution Method",
+                "children": []
+              },
+              {
+                "title": "Tabular & Approximation Method",
+                "children": []
+              },
+              {
+                "title": "Factorization Method",
+                "children": []
+              },
+              {
+                "title": "Expansion Method",
+                "children": []
+              },
+              {
+                "title": "L'Hopital's Rule",
+                "children": []
+              },
+              {
+                "title": "Special Limits",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "1.8.2 Continuity",
+            "children": [
+              {
+                "title": "Continuity in Intervals",
+                "children": []
+              },
+              {
+                "title": "Properties of Continuous Functions",
+                "children": []
+              },
+              {
+                "title": "Types of Discontinuity",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "1.8.3 Differentiability & Differentiation",
+            "children": [
+              {
+                "title": "Differentiation Rules & Formulas",
+                "children": []
+              },
+              {
+                "title": "Mathematical Definition of Differentiability",
+                "children": []
+              },
+              {
+                "title": "Geometric Definition of Differentiability",
+                "children": []
+              },
+              {
+                "title": "Non-Differentiability",
+                "children": []
+              },
+              {
+                "title": "Rolle's Theorem",
+                "children": []
+              },
+              {
+                "title": "Lagrange's Mean Value Theorem",
+                "children": []
+              },
+              {
+                "title": "Applications of Mean Value Theorem",
+                "children": []
+              },
+              {
+                "title": "Cauchy's Extended Mean Value Theorem",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "1.8.4 Maxima & Minima",
+            "children": [
+              {
+                "title": "Stationary Point",
+                "children": []
+              },
+              {
+                "title": "Critical Point",
+                "children": []
+              },
+              {
+                "title": "Maxima & Minima",
+                "children": []
+              },
+              {
+                "title": "Monotonic Functions",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "1.8.5 Integration",
+            "children": [
+              {
+                "title": "Indefinite Integrals",
+                "children": []
+              },
+              {
+                "title": "Definite Integrals",
+                "children": []
+              },
+              {
+                "title": "Properties of Definite Integrals",
+                "children": []
+              },
+              {
+                "title": "Integration Formulas",
+                "children": []
+              },
+              {
+                "title": "Substitution Method",
+                "children": []
+              },
+              {
+                "title": "Partial Fractions Method",
+                "children": []
+              },
+              {
+                "title": "Complications in Partial Fractions",
+                "children": []
+              },
+              {
+                "title": "Integration by Parts",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "1.8.7 Numerical Methods",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "1.9 Probability",
+        "children": [
+          {
+            "title": "1.9.1 Basic Concepts & Terminology",
+            "children": [
+              {
+                "title": "Experiment",
+                "children": []
+              },
+              {
+                "title": "Event",
+                "children": []
+              },
+              {
+                "title": "Favorable Outcome",
+                "children": []
+              },
+              {
+                "title": "Total Outcome",
+                "children": []
+              },
+              {
+                "title": "Sure Event",
+                "children": []
+              },
+              {
+                "title": "Impossible Event",
+                "children": []
+              },
+              {
+                "title": "Complementary Event",
+                "children": []
+              },
+              {
+                "title": "Mutually Exclusive Events",
+                "children": []
+              },
+              {
+                "title": "Exhaustive Events",
+                "children": []
+              },
+              {
+                "title": "Odds in Favour & Against an Event",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "1.9.2 Classical Probability",
+            "children": [
+              {
+                "title": "At Least & At Most",
+                "children": []
+              },
+              {
+                "title": "Dice Problems",
+                "children": []
+              },
+              {
+                "title": "Playing Cards Problems",
+                "children": []
+              },
+              {
+                "title": "Probability of 53 Sundays in a Leap Year",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "1.9.3 Probability Using Venn Diagrams & Set Theory",
+            "children": []
+          },
+          {
+            "title": "1.9.4 Conditional Probability",
+            "children": []
+          },
+          {
+            "title": "1.9.5 Law of Total Probability",
+            "children": []
+          },
+          {
+            "title": "1.9.6 Bayes Theorem (Inverse Probability)",
+            "children": []
+          },
+          {
+            "title": "1.9.7 Probability Using Permutation & Combination",
+            "children": []
+          },
+          {
+            "title": "1.9.8 Continuous Probability Distribution, Random Variables & Expected Value",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "1.10 Statistics",
+        "children": [
+          {
+            "title": "1.10.1 Types of Data",
+            "children": []
+          },
+          {
+            "title": "1.10.2 Mean, Median & Mode for Ungrouped Data",
+            "children": []
+          },
+          {
+            "title": "1.10.3 Mean, Median & Mode for Grouped Data",
+            "children": []
+          },
+          {
+            "title": "1.10.4 Range, Mean Deviation, Variance & Standard Deviation",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "2. Digital Logic",
+    "children": [
+      {
+        "title": "2.1 Digital Systems & Boolean Basics",
+        "children": [
+          {
+            "title": "2.1.1 Digital Fundamentals & Boolean Algebra",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "2.2 Logic Gates & Hardware",
+        "children": [
+          {
+            "title": "2.2.1 Evolution, NOT, OR & AND Gates",
+            "children": []
+          },
+          {
+            "title": "2.2.2 Universal Gates: NAND & NOR",
+            "children": []
+          },
+          {
+            "title": "2.2.3 Ex-OR, Ex-NOR Gate & Relation",
+            "children": []
+          },
+          {
+            "title": "2.2.4 Logic Families & Hardware",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "2.3 Boolean Expression",
+        "children": [
+          {
+            "title": "2.3.1 SOP & POS Canonical Forms",
+            "children": []
+          },
+          {
+            "title": "2.3.2 Boolean Function Counts",
+            "children": []
+          },
+          {
+            "title": "2.3.3 Functional Completeness",
+            "children": []
+          },
+          {
+            "title": "2.3.4 Universal Realization",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "2.4 Boolean Minimization",
+        "children": [
+          {
+            "title": "2.4.1 K-Map Structure & PIs",
+            "children": []
+          },
+          {
+            "title": "2.4.2 Function Equivalence",
+            "children": []
+          },
+          {
+            "title": "2.4.3 Logic Circuit Analysis",
+            "children": []
+          },
+          {
+            "title": "2.4.4 Adv. Laws & Optimization",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "2.5 Combinational Circuit",
+        "children": [
+          {
+            "title": "2.5.1 Adders & Subtractors",
+            "children": []
+          },
+          {
+            "title": "2.5.2 CLA & Arithmetic Logic",
+            "children": []
+          },
+          {
+            "title": "2.5.3 Multiplexers (MUX)",
+            "children": []
+          },
+          {
+            "title": "2.5.4 DeMux, Decoder & Encoder",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "2.6 Sequential Circuits",
+        "children": [
+          {
+            "title": "2.6.1 Seq. Logic & Latches",
+            "children": []
+          },
+          {
+            "title": "2.6.2 Flip-Flops & Conversion",
+            "children": []
+          },
+          {
+            "title": "2.6.3 Sync Counter Analysis",
+            "children": []
+          },
+          {
+            "title": "2.6.4 Sync Counter Design",
+            "children": []
+          },
+          {
+            "title": "2.6.5 Ripple (Async) Counters",
+            "children": []
+          },
+          {
+            "title": "2.6.6 Shift Registers",
+            "children": []
+          },
+          {
+            "title": "2.6.7 Ring & Johnson Counters",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "2.7 Number System",
+        "children": [
+          {
+            "title": "2.7.1 Basics & Decimal Convert",
+            "children": []
+          },
+          {
+            "title": "2.7.2 General Base Conversion",
+            "children": []
+          },
+          {
+            "title": "2.7.3 Binary, Octal & Hex",
+            "children": []
+          },
+          {
+            "title": "2.7.4 Binary Arithmetic Operations",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "2.8 Number Representation",
+        "children": [
+          {
+            "title": "2.8.1 Basics to 1s Complement",
+            "children": []
+          },
+          {
+            "title": "2.8.2 2s Complement & Math",
+            "children": []
+          },
+          {
+            "title": "2.8.3 BCD & Special Codes",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "2.9 Floating Point Rep",
+        "children": [
+          {
+            "title": "2.9.1 Floating Point Basics",
+            "children": []
+          },
+          {
+            "title": "2.9.2 IEEE 754 Standards",
+            "children": []
+          },
+          {
+            "title": "2.9.3 Booth's Algorithm",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "3. Computer Organisation & Architecture",
+    "children": [
+      {
+        "title": "3.1 Basics of COA",
+        "children": [
+          {
+            "title": "3.1.1 Introduction H/W & S/W",
+            "children": []
+          },
+          {
+            "title": "3.1.2 Input Output Devices",
+            "children": []
+          },
+          {
+            "title": "3.1.3 Basics of Memory",
+            "children": []
+          },
+          {
+            "title": "3.1.4 Evolution & History",
+            "children": []
+          },
+          {
+            "title": "3.1.5 Computer Classification & Flynn's Taxonomy",
+            "children": []
+          },
+          {
+            "title": "3.1.6 CPU Organization Basics",
+            "children": []
+          },
+          {
+            "title": "3.1.7 Instruction Set Architecture (ISA) & Design",
+            "children": []
+          },
+          {
+            "title": "3.1.8 Types of Software",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "3.2 Cache Memory Organization",
+        "children": [
+          {
+            "title": "3.2.1 Memory Chip Configuration",
+            "children": []
+          },
+          {
+            "title": "3.2.2 Hierarchy & Locality",
+            "children": []
+          },
+          {
+            "title": "3.2.3 Units & Cache Mapping Techniques Basics",
+            "children": []
+          },
+          {
+            "title": "3.2.4 Direct Mapping",
+            "children": []
+          },
+          {
+            "title": "3.2.5 Associative Mapping",
+            "children": []
+          },
+          {
+            "title": "3.2.6 Set Associative Mapping",
+            "children": []
+          },
+          {
+            "title": "3.2.7 Cache Replacement Policies & Miss Types",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "3.3 Input Output Organisation",
+        "children": [
+          {
+            "title": "3.3.1 Interface & Addressing",
+            "children": []
+          },
+          {
+            "title": "3.3.2 Programmed I/O",
+            "children": []
+          },
+          {
+            "title": "3.3.3 Interrupt Driven IO",
+            "children": []
+          },
+          {
+            "title": "3.3.4 Direct Memory Access DMA",
+            "children": []
+          },
+          {
+            "title": "3.3.5 Disk Structure & Address",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "3.4 Pipelining",
+        "children": [
+          {
+            "title": "3.4.1 Pipelining Basics",
+            "children": []
+          },
+          {
+            "title": "3.4.2 Performance & Speedup",
+            "children": []
+          },
+          {
+            "title": "3.4.3 Structural & Control Hazards",
+            "children": []
+          },
+          {
+            "title": "3.4.4 Data Hazards & Soln",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "3.5 Instr Formats & Modes",
+        "children": [
+          {
+            "title": "3.5.1 Instruction Structure",
+            "children": []
+          },
+          {
+            "title": "3.5.2 Basic Addressing Modes",
+            "children": []
+          },
+          {
+            "title": "3.5.3 Complex & Rel Modes",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "3.6 Control Unit Design",
+        "children": [
+          {
+            "title": "3.6.1 Instruction Types",
+            "children": []
+          },
+          {
+            "title": "3.6.2 Hardwired & Microprogrammed CU",
+            "children": []
+          },
+          {
+            "title": "3.6.3 RISC vs CISC Arch",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "4. Programming & Data Structures",
+    "children": [
+      {
+        "title": "4.1 Fundamentals",
+        "children": [
+          {
+            "title": "4.1.1 Intro & Data Types",
+            "children": [
+              {
+                "title": "Introduction of C",
+                "children": []
+              },
+              {
+                "title": "Understanding Language",
+                "children": []
+              },
+              {
+                "title": "Types of Variables",
+                "children": []
+              },
+              {
+                "title": "C Programming — Our First Program",
+                "children": []
+              },
+              {
+                "title": "Main & Command Line Arguments",
+                "children": []
+              },
+              {
+                "title": "Garbage Values",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.1.2 Operators & Expressions",
+            "children": [
+              {
+                "title": "Instructions and Operations",
+                "children": []
+              },
+              {
+                "title": "Integer to Float Conversion (Type Casting)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.1.3 Understanding Operators",
+            "children": [
+              {
+                "title": "SizeOf Operator",
+                "children": []
+              },
+              {
+                "title": "Unary Operator",
+                "children": []
+              },
+              {
+                "title": "Bitwise Operator",
+                "children": []
+              },
+              {
+                "title": "Types of Swapping",
+                "children": []
+              },
+              {
+                "title": "Increment Decrement Operator",
+                "children": []
+              },
+              {
+                "title": "Logical Operator",
+                "children": []
+              },
+              {
+                "title": "Ternary Operator",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.1.4 Data Type Fundamentals",
+            "children": [
+              {
+                "title": "Data Types",
+                "children": []
+              },
+              {
+                "title": "char, signed and unsigned",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.1.5 Integral Datatypes",
+            "children": [
+              {
+                "title": "IDTs",
+                "children": []
+              },
+              {
+                "title": "Cyclic Nature of Integral Data Type (Int)",
+                "children": []
+              },
+              {
+                "title": "Cyclic Nature of Integral Data Type (Char)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.1.6 Intro of Flowcharts",
+            "children": [
+              {
+                "title": "Flowcharts",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4.2 Control Flow",
+        "children": [
+          {
+            "title": "4.2.1 If-Else Statements — Basic, Advanced & Nested If-Else Structures",
+            "children": [
+              {
+                "title": "Conditional Statements (Decision Control) in C",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.2.2 Loops & Iteration",
+            "children": [
+              {
+                "title": "The While Loop",
+                "children": []
+              },
+              {
+                "title": "For Loop",
+                "children": []
+              },
+              {
+                "title": "Break Statement",
+                "children": []
+              },
+              {
+                "title": "The Do While Loop",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.2.3 Switch & Jump Stmts",
+            "children": [
+              {
+                "title": "Control Statement",
+                "children": []
+              },
+              {
+                "title": "The GOTO Keyword",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4.3 Functions",
+        "children": [
+          {
+            "title": "4.3.1 Function Basics — Definition, Declaration, and Calling Mechanisms",
+            "children": [
+              {
+                "title": "What Is Functions",
+                "children": []
+              },
+              {
+                "title": "Types of Function",
+                "children": []
+              },
+              {
+                "title": "Scope Rule of Function",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.3.2 Basic Recursion",
+            "children": [
+              {
+                "title": "Function Practice Question",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4.4 Arrays & Pointers",
+        "children": [
+          {
+            "title": "4.4.1 Array Basics",
+            "children": [
+              {
+                "title": "Demo: Introduction of Array — 1",
+                "children": []
+              },
+              {
+                "title": "Introduction of Array — 2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.4.2 Pointer Basics — Declaration, Initialization, and Dereferencing",
+            "children": [
+              {
+                "title": "An Introduction to Pointers",
+                "children": []
+              },
+              {
+                "title": "Pointers Declaration",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.4.3 Relationship Between Arrays and Pointers",
+            "children": [
+              {
+                "title": "Relationship Between Arrays and Pointers",
+                "children": []
+              },
+              {
+                "title": "Address Representation",
+                "children": []
+              },
+              {
+                "title": "Address Operation",
+                "children": []
+              },
+              {
+                "title": "Address Operation - Subtraction",
+                "children": []
+              },
+              {
+                "title": "Key Points of Array",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.4.4 Character Pointer (String)",
+            "children": [
+              {
+                "title": "Character Pointer",
+                "children": []
+              },
+              {
+                "title": "Character Pointer & String",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.4.5 Call By Value/Address/Reference",
+            "children": [
+              {
+                "title": "Back to Function Calls (Parameter Passing)",
+                "children": []
+              },
+              {
+                "title": "Call by Address",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.4.6 Recursion with Pointer",
+            "children": [
+              {
+                "title": "Recursion With Pointers",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4.5 Storage Classes, Structures & Enums",
+        "children": [
+          {
+            "title": "4.5.1 Storage Classes",
+            "children": [
+              {
+                "title": "Storage Class",
+                "children": []
+              },
+              {
+                "title": "Register Storage Class",
+                "children": []
+              },
+              {
+                "title": "Static Storage Class",
+                "children": []
+              },
+              {
+                "title": "External Storage Class",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.5.2 Structures - Declaration, Initialization & Union Comparison",
+            "children": [
+              {
+                "title": "Structure in C",
+                "children": []
+              },
+              {
+                "title": "Union",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.5.3 Enums",
+            "children": [
+              {
+                "title": "Enums in C",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4.6 DMA, Macros, Scoping & File Handling",
+        "children": [
+          {
+            "title": "4.6.1 Dynamic Memory Allocation",
+            "children": [
+              {
+                "title": "DMA - malloc",
+                "children": []
+              },
+              {
+                "title": "DMA - calloc",
+                "children": []
+              },
+              {
+                "title": "DMA-Memory Leak Problem",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.6.2 Static and Dynamic Scoping",
+            "children": [
+              {
+                "title": "Static & Dynamic Scoping",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.6.3 Macros",
+            "children": [
+              {
+                "title": "Macros",
+                "children": []
+              },
+              {
+                "title": "Types of Macros",
+                "children": []
+              },
+              {
+                "title": "Benefits of Macros",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4.7 Introduction to DS",
+        "children": [
+          {
+            "title": "4.7.1 DS Basics & Types",
+            "children": [
+              {
+                "title": "Why We Study Data Structure and Algorithm",
+                "children": []
+              },
+              {
+                "title": "What is Data Structure",
+                "children": []
+              },
+              {
+                "title": "Effects of Data Structure",
+                "children": []
+              },
+              {
+                "title": "Primitive Vs Non-Primitive Data Structure",
+                "children": []
+              },
+              {
+                "title": "Linear Vs Non-Linear Data Structure",
+                "children": []
+              },
+              {
+                "title": "Demo: Why We Study Data Structure and Algorithm",
+                "children": []
+              },
+              {
+                "title": "Demo: What is Data Structure",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4.8 Array",
+        "children": [
+          {
+            "title": "4.8.1 Array Basics & Ops",
+            "children": [
+              {
+                "title": "What is an Array",
+                "children": []
+              },
+              {
+                "title": "How to Declare & Initialize Array in C",
+                "children": []
+              },
+              {
+                "title": "Size of an Array",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.8.2 1D & 2D Addressing",
+            "children": [
+              {
+                "title": "One Dimensional Array Access Formula",
+                "children": []
+              },
+              {
+                "title": "Two Dimensional Array",
+                "children": []
+              },
+              {
+                "title": "2D Array Row Major Implementation",
+                "children": []
+              },
+              {
+                "title": "2D Array Column Major Implementation",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.8.3 3D & Multi-dim Arrays",
+            "children": [
+              {
+                "title": "3D Array Implementation",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4.9 Stack",
+        "children": [
+          {
+            "title": "4.9.1 Stack Basics & Ops",
+            "children": [
+              {
+                "title": "Basic Idea Of Stack",
+                "children": []
+              },
+              {
+                "title": "Static Vs Dynamic Implementation Of Stack",
+                "children": []
+              },
+              {
+                "title": "Push Operation On Stack",
+                "children": []
+              },
+              {
+                "title": "Pop Operation on Stack",
+                "children": []
+              },
+              {
+                "title": "Stack Permutation",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.9.2 Infix Postfix Prefix",
+            "children": [
+              {
+                "title": "Representation Of Expression",
+                "children": []
+              },
+              {
+                "title": "Infix To Prefix Conversion Of Expression",
+                "children": []
+              },
+              {
+                "title": "Infix To Postfix Conversion Of Expression",
+                "children": []
+              },
+              {
+                "title": "Tree method for conversion",
+                "children": []
+              },
+              {
+                "title": "Prefix and postfix conversion_PQ",
+                "children": []
+              },
+              {
+                "title": "Conversion of Expression_PQ",
+                "children": []
+              },
+              {
+                "title": "Practice Question (Gate 1998)",
+                "children": []
+              },
+              {
+                "title": "Practice Question (Gate 1995)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.9.3 Eval of Expressions",
+            "children": [
+              {
+                "title": "Evaluation of expression Using Stack",
+                "children": []
+              },
+              {
+                "title": "Evaluation of Postfix Expression",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.9.4 Recursion & Stack",
+            "children": [
+              {
+                "title": "Introduction to Recursion",
+                "children": []
+              },
+              {
+                "title": "Recursive Functions",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.9.5 TOH & Classic Apps",
+            "children": [
+              {
+                "title": "Tower of Hanoi",
+                "children": []
+              },
+              {
+                "title": "Fibonacci Number",
+                "children": []
+              },
+              {
+                "title": "Ackermann Function",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4.10 Queue",
+        "children": [
+          {
+            "title": "4.10.1 Basics & Stack Mix",
+            "children": [
+              {
+                "title": "Basic Idea Of Queue",
+                "children": []
+              },
+              {
+                "title": "Representation Of Queue",
+                "children": []
+              },
+              {
+                "title": "Enqueue Operation On Queue",
+                "children": []
+              },
+              {
+                "title": "Dequeue Operation On Queue",
+                "children": []
+              },
+              {
+                "title": "Problem With Simple Linear Queue",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.10.2 Circular Queue",
+            "children": [
+              {
+                "title": "Circular Queue",
+                "children": []
+              },
+              {
+                "title": "Enqueue Operation On Circular Queue",
+                "children": []
+              },
+              {
+                "title": "Dequeue Operation On Circular Queue",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.10.3 Priority Queues & Variants",
+            "children": [
+              {
+                "title": "Priority Queue",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4.11 Linked List",
+        "children": [
+          {
+            "title": "4.11.1 SLL Basics & Standard Operations",
+            "children": [
+              {
+                "title": "Introduction To Link List",
+                "children": []
+              },
+              {
+                "title": "Analysis Of Link List",
+                "children": []
+              },
+              {
+                "title": "Link List Traversal Using Loop",
+                "children": []
+              },
+              {
+                "title": "Link List Traversal Using Recursion",
+                "children": []
+              },
+              {
+                "title": "Searching An Element In Link List Using Loop",
+                "children": []
+              },
+              {
+                "title": "Searching An Element In LL Using Recursion",
+                "children": []
+              },
+              {
+                "title": "Insertion in Link List",
+                "children": []
+              },
+              {
+                "title": "Deletion From Link List",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.11.2 Structure Modification & Pointer Logic",
+            "children": [
+              {
+                "title": "Reversing a Link List using Loop",
+                "children": []
+              },
+              {
+                "title": "Reversing a Link List using Recursion",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.11.3 Doubly, Circular & Variants",
+            "children": [
+              {
+                "title": "Header Link List",
+                "children": []
+              },
+              {
+                "title": "Doubly Link List",
+                "children": []
+              },
+              {
+                "title": "Header circular Doubly Link List",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4.12 Tree",
+        "children": [
+          {
+            "title": "4.12.1 Binary Tree Basics & Props",
+            "children": [
+              {
+                "title": "Introduction To Tree",
+                "children": []
+              },
+              {
+                "title": "Important Tree Terminology",
+                "children": []
+              },
+              {
+                "title": "Introduction To Binary Tree",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.12.2 Traversals & Construction",
+            "children": [
+              {
+                "title": "Preorder Traversal of Binary Tree",
+                "children": []
+              },
+              {
+                "title": "Inorder Traversal Of Binary Tree",
+                "children": []
+              },
+              {
+                "title": "Post Order Traversal Of Binary Tree",
+                "children": []
+              },
+              {
+                "title": "Tree Traversal Pseudocode (Pre-order)",
+                "children": []
+              },
+              {
+                "title": "Tree Traversal Pseudocode (Inorder)",
+                "children": []
+              },
+              {
+                "title": "Tree Traversal Pseudocode (Post-Order)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.12.3 BST Basics & Operations",
+            "children": [
+              {
+                "title": "BST Basics & Operations",
+                "children": []
+              },
+              {
+                "title": "Binary Search Tree",
+                "children": []
+              },
+              {
+                "title": "Insertion in Binary Search Tree",
+                "children": []
+              },
+              {
+                "title": "Deletion in BST",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.12.4 AVL Trees & Balancing",
+            "children": [
+              {
+                "title": "AVL Trees & Balancing",
+                "children": []
+              },
+              {
+                "title": "AVL Tree",
+                "children": []
+              },
+              {
+                "title": "Insertion In AVL Tree",
+                "children": []
+              },
+              {
+                "title": "Deletion in AVL",
+                "children": []
+              },
+              {
+                "title": "Analysis of AVL",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.12.5 Complete Binary Trees",
+            "children": [
+              {
+                "title": "Complete Binary Trees",
+                "children": []
+              },
+              {
+                "title": "CBT",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.12.6 Heaps & Priority Queues",
+            "children": [
+              {
+                "title": "Heaps & Priority Queues",
+                "children": []
+              },
+              {
+                "title": "Heap",
+                "children": []
+              },
+              {
+                "title": "Practice Question-3 (Insertion)",
+                "children": []
+              },
+              {
+                "title": "Practice Question-4 (deletion)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4.13 Graphs",
+        "children": [
+          {
+            "title": "4.13.1 Graph Reps & Basics",
+            "children": [
+              {
+                "title": "Graph Reps & Basics",
+                "children": []
+              },
+              {
+                "title": "Introduction To Graph",
+                "children": []
+              },
+              {
+                "title": "Adjacency Matrix Representation",
+                "children": []
+              },
+              {
+                "title": "Adjacency List Representation",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.13.2 DFS & Applications",
+            "children": [
+              {
+                "title": "DFS & Applications",
+                "children": []
+              },
+              {
+                "title": "Depth First Traversal",
+                "children": []
+              },
+              {
+                "title": "DFS Algo",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.13.3 BFS & Applications",
+            "children": [
+              {
+                "title": "BFS & Applications",
+                "children": []
+              },
+              {
+                "title": "Breadth First Traversal",
+                "children": []
+              },
+              {
+                "title": "BFS Algo",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4.14 Hashing",
+        "children": [
+          {
+            "title": "4.14.1 Hashing Basics & Functions",
+            "children": [
+              {
+                "title": "Hashing Basics & Functions",
+                "children": []
+              },
+              {
+                "title": "Basics of Hashing",
+                "children": []
+              },
+              {
+                "title": "Characteristics of Good hash function",
+                "children": []
+              },
+              {
+                "title": "Most Popular Hash Function",
+                "children": []
+              },
+              {
+                "title": "Collision Resolution Technique",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.14.2 Open Addressing (Probing)",
+            "children": [
+              {
+                "title": "Open Addressing (Probing)",
+                "children": []
+              },
+              {
+                "title": "Performance of Open Addressing",
+                "children": []
+              },
+              {
+                "title": "Linear Probing",
+                "children": []
+              },
+              {
+                "title": "Primary Secondary Clustering",
+                "children": []
+              },
+              {
+                "title": "Quadratic Probing",
+                "children": []
+              },
+              {
+                "title": "Double Hashing",
+                "children": []
+              },
+              {
+                "title": "Gate 2010",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "4.14.3 Chaining & Perf Analysis",
+            "children": [
+              {
+                "title": "Chaining & Perf Analysis",
+                "children": []
+              },
+              {
+                "title": "Chaining",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "5. Databases",
+    "children": [
+      {
+        "title": "5.1 Basics of DBMS",
+        "children": [
+          {
+            "title": "5.1.1 DBMS Fundamentals",
+            "children": [
+              {
+                "title": "DBMS Fundamentals",
+                "children": []
+              },
+              {
+                "title": "Demo: Blue Print Of DBMS",
+                "children": []
+              },
+              {
+                "title": "Demo: What is Data and Information",
+                "children": []
+              },
+              {
+                "title": "Demo: What is Data Base Management System",
+                "children": []
+              },
+              {
+                "title": "Problem With File System",
+                "children": []
+              },
+              {
+                "title": "Views Of DataBase",
+                "children": []
+              },
+              {
+                "title": "Instance Vs Schema",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.1.2 Types & DBA Functions",
+            "children": [
+              {
+                "title": "Types & DBA Functions",
+                "children": []
+              },
+              {
+                "title": "OLAP Vs OLTP",
+                "children": []
+              },
+              {
+                "title": "Types of Databases",
+                "children": []
+              },
+              {
+                "title": "Who is DataBase Administrator",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5.2 ER Diagram",
+        "children": [
+          {
+            "title": "5.2.1 ER Modeling Fundamentals",
+            "children": [
+              {
+                "title": "ER Modeling Fundamentals",
+                "children": []
+              },
+              {
+                "title": "Introduction To ER Diagram",
+                "children": []
+              },
+              {
+                "title": "Understanding What is Entity",
+                "children": []
+              },
+              {
+                "title": "What Is Entity Set",
+                "children": []
+              },
+              {
+                "title": "Basics Of Attributes",
+                "children": []
+              },
+              {
+                "title": "Single Vs Multivalued Attributes",
+                "children": []
+              },
+              {
+                "title": "Simple Vs Composite Attributes",
+                "children": []
+              },
+              {
+                "title": "What Is Relationship",
+                "children": []
+              },
+              {
+                "title": "Degree Of a Relationship",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.2.2 Cardinalities, Participation & Entity Strength",
+            "children": [
+              {
+                "title": "Cardinalities, Participation & Entity Strength",
+                "children": []
+              },
+              {
+                "title": "Cardinality Ratios and Mapping",
+                "children": []
+              },
+              {
+                "title": "Participation Constraints",
+                "children": []
+              },
+              {
+                "title": "Strong Vs Weak Entity Set",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.2.3 Conversion of ER Diagram into Relational Model",
+            "children": [
+              {
+                "title": "Conversion of ER Diagram into Relational Model",
+                "children": []
+              },
+              {
+                "title": "Conversion ER Diagram to Relational Model",
+                "children": []
+              },
+              {
+                "title": "Trapes",
+                "children": []
+              },
+              {
+                "title": "Fan Trap",
+                "children": []
+              },
+              {
+                "title": "Chasm Trap",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5.3 Relational Model & Functional Dependencies",
+        "children": [
+          {
+            "title": "5.3.1 Basics of Relational Model & Anomalies",
+            "children": [
+              {
+                "title": "Basics of Relational Model & Anomalies",
+                "children": []
+              },
+              {
+                "title": "Basics of Relational Model",
+                "children": []
+              },
+              {
+                "title": "Update Anomalies In Relational Model",
+                "children": []
+              },
+              {
+                "title": "Understanding Redundancy In Detail",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.3.2 Functional Dependencies & Axioms",
+            "children": [
+              {
+                "title": "Functional Dependencies & Axioms",
+                "children": []
+              },
+              {
+                "title": "What Is Functional Dependency",
+                "children": []
+              },
+              {
+                "title": "Understanding Functional Dependency Further",
+                "children": []
+              },
+              {
+                "title": "What Is Trivial Functional Dependency",
+                "children": []
+              },
+              {
+                "title": "Practice Questions Functional Dependency",
+                "children": []
+              },
+              {
+                "title": "Understanding Armstrong's Axioms",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.3.3 Attribute Closure & Equivalence of Sets",
+            "children": [
+              {
+                "title": "Attribute Closure & Equivalence of Sets",
+                "children": []
+              },
+              {
+                "title": "Closure Set of Attributes",
+                "children": []
+              },
+              {
+                "title": "Practice Questions Functional Dependency",
+                "children": []
+              },
+              {
+                "title": "Comparing Two Set Of Functional Dependencies",
+                "children": []
+              },
+              {
+                "title": "Practice Questions",
+                "children": []
+              },
+              {
+                "title": "Practice Questions on Functional Dependencies",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.3.4 Minimal Cover (Canonical Cover)",
+            "children": [
+              {
+                "title": "Minimal Cover (Canonical Cover)",
+                "children": []
+              },
+              {
+                "title": "Minimal Cover Of Functional Dependency",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5.4 Keys & Integrity Constraints",
+        "children": [
+          {
+            "title": "5.4.1 Super Key, Candidate Key & Primary Key",
+            "children": [
+              {
+                "title": "Super Key, Candidate Key & Primary Key",
+                "children": []
+              },
+              {
+                "title": "What Is Key",
+                "children": []
+              },
+              {
+                "title": "Super Key",
+                "children": []
+              },
+              {
+                "title": "Candidate Key",
+                "children": []
+              },
+              {
+                "title": "Primary Key",
+                "children": []
+              },
+              {
+                "title": "DBMS PRACTICE QUESTIONS",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.4.2 Foreign Key & Referential Integrity",
+            "children": [
+              {
+                "title": "Foreign Key & Referential Integrity",
+                "children": []
+              },
+              {
+                "title": "Foreign Key",
+                "children": []
+              },
+              {
+                "title": "PRACTICE QUESTION",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.4.3 Composite & Alternate Keys",
+            "children": [
+              {
+                "title": "Composite & Alternate Keys",
+                "children": []
+              },
+              {
+                "title": "Composite Key",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5.5 Normalization (1NF - BCNF)",
+        "children": [
+          {
+            "title": "5.5.1 Introduction to Normalization & 1NF",
+            "children": [
+              {
+                "title": "Introduction to Normalization & 1NF",
+                "children": []
+              },
+              {
+                "title": "Demo: What is Normalisation",
+                "children": []
+              },
+              {
+                "title": "First Normal Form",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.5.2 Second Normal Form (2NF)",
+            "children": [
+              {
+                "title": "Second Normal Form (2NF)",
+                "children": []
+              },
+              {
+                "title": "Demo: Second Normal Form",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.5.3 Third Normal Form (3NF)",
+            "children": [
+              {
+                "title": "Third Normal Form (3NF)",
+                "children": []
+              },
+              {
+                "title": "Gate 2018",
+                "children": []
+              },
+              {
+                "title": "Demo: Third Normal Form",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.5.4 Boyce-Codd Normal Form (BCNF)",
+            "children": [
+              {
+                "title": "Boyce-Codd Normal Form (BCNF)",
+                "children": []
+              },
+              {
+                "title": "BCNF",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5.6 Decomposition Properties & 4NF",
+        "children": [
+          {
+            "title": "5.6.1 Lossless Join Decomposition",
+            "children": [
+              {
+                "title": "Lossless Join Decomposition",
+                "children": []
+              },
+              {
+                "title": "Lossy-Lossless Decomposition Using FD",
+                "children": []
+              },
+              {
+                "title": "Check for Lossless Decomposition using FD",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.6.2 Dependency Preserving Decomposition",
+            "children": [
+              {
+                "title": "Dependency Preserving Decomposition",
+                "children": []
+              },
+              {
+                "title": "Dependency Preserving Decomposition",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5.7 File Organization & Indexing",
+        "children": [
+          {
+            "title": "5.7.1 Basics & Types of Indexing",
+            "children": [
+              {
+                "title": "Basics & Types of Indexing",
+                "children": []
+              },
+              {
+                "title": "Background Of Indexing",
+                "children": []
+              },
+              {
+                "title": "What is Indexing",
+                "children": []
+              },
+              {
+                "title": "Practice Question - Primary Indexing",
+                "children": []
+              },
+              {
+                "title": "Practice Question - Primary Indexing Cont...",
+                "children": []
+              },
+              {
+                "title": "Important Terminology of Indexing",
+                "children": []
+              },
+              {
+                "title": "Primary Indexing",
+                "children": []
+              },
+              {
+                "title": "Clustered Indexing",
+                "children": []
+              },
+              {
+                "title": "Practice Question - Clustered Indexing",
+                "children": []
+              },
+              {
+                "title": "Secondary Indexing",
+                "children": []
+              },
+              {
+                "title": "Practice question on secondary indexing",
+                "children": []
+              },
+              {
+                "title": "Multilevel Indexing",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.7.2 B-Trees & B+ Trees (Structure & Insertion)",
+            "children": [
+              {
+                "title": "B-Trees & B+ Trees (Structure & Insertion)",
+                "children": []
+              },
+              {
+                "title": "Insertion in B-Tree",
+                "children": []
+              },
+              {
+                "title": "Practice question on B Tree Insertion",
+                "children": []
+              },
+              {
+                "title": "Reason for B+ Tree",
+                "children": []
+              },
+              {
+                "title": "Structure of Nodes in B Tree and B+ Tree",
+                "children": []
+              },
+              {
+                "title": "Insertion in B+ Tree Part-1",
+                "children": []
+              },
+              {
+                "title": "Insertion in B+ Tree Part-2",
+                "children": []
+              },
+              {
+                "title": "Deletion From B+ Tree",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.7.3 Deletion in B-Trees & B+ Trees",
+            "children": [
+              {
+                "title": "Deletion in B-Trees & B+ Trees",
+                "children": []
+              },
+              {
+                "title": "Deletion From B Tree",
+                "children": []
+              },
+              {
+                "title": "Practice question on B Tree Deletion",
+                "children": []
+              },
+              {
+                "title": "Deletion From B+ Tree",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5.8 Relational Algebra",
+        "children": [
+          {
+            "title": "5.8.1 Introduction to Query Languages",
+            "children": [
+              {
+                "title": "Introduction to Query Languages",
+                "children": []
+              },
+              {
+                "title": "What is Query Language",
+                "children": []
+              },
+              {
+                "title": "Basics of Relational Algebra",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.8.2 Unary Operators (Selection & Projection)",
+            "children": [
+              {
+                "title": "Unary Operators (Selection & Projection)",
+                "children": []
+              },
+              {
+                "title": "Project Operator",
+                "children": []
+              },
+              {
+                "title": "Select Operator",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.8.3 Set Operations & Cartesian Product",
+            "children": [
+              {
+                "title": "Set Operations & Cartesian Product",
+                "children": []
+              },
+              {
+                "title": "Set Operators",
+                "children": []
+              },
+              {
+                "title": "Cartesian Product In RA",
+                "children": []
+              },
+              {
+                "title": "Problem With Cartesian Product",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.8.4 Join Operations (Inner & Outer)",
+            "children": [
+              {
+                "title": "Join Operations (Inner & Outer)",
+                "children": []
+              },
+              {
+                "title": "Natural Join Operator",
+                "children": []
+              },
+              {
+                "title": "Theta Join-Conditional Join",
+                "children": []
+              },
+              {
+                "title": "Outer Join",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.8.5 Rename Operation",
+            "children": [
+              {
+                "title": "Rename Operation",
+                "children": []
+              },
+              {
+                "title": "Rename Operation",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.8.6 Division Operator",
+            "children": [
+              {
+                "title": "Division Operator",
+                "children": []
+              },
+              {
+                "title": "Division Operator",
+                "children": []
+              },
+              {
+                "title": "Implementing Division Operator Using Basic Operators",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5.9 SQL",
+        "children": [
+          {
+            "title": "5.9.1 Introduction, Components & Structure",
+            "children": [
+              {
+                "title": "Introduction, Components & Structure",
+                "children": []
+              },
+              {
+                "title": "Introduction To SQL",
+                "children": []
+              },
+              {
+                "title": "Components Of SQL",
+                "children": []
+              },
+              {
+                "title": "Basic Structure Of SQL",
+                "children": []
+              },
+              {
+                "title": "720p_2.3 Net 1999",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.9.2 Select, Where, Distinct",
+            "children": [
+              {
+                "title": "Select, Where, Distinct",
+                "children": []
+              },
+              {
+                "title": "Select Clause",
+                "children": []
+              },
+              {
+                "title": "Where Clause",
+                "children": []
+              },
+              {
+                "title": "Demo: Distinct",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.9.3 Datatypes, Operators & Null",
+            "children": [
+              {
+                "title": "Datatypes, Operators & Null",
+                "children": []
+              },
+              {
+                "title": "SQL Data Types",
+                "children": []
+              },
+              {
+                "title": "SQL Operators",
+                "children": []
+              },
+              {
+                "title": "Null in SQL",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.9.4 DDL, DML, DCL, TCL & Desc",
+            "children": [
+              {
+                "title": "DDL, DML, DCL, TCL & Desc",
+                "children": []
+              },
+              {
+                "title": "DDL",
+                "children": []
+              },
+              {
+                "title": "DML",
+                "children": []
+              },
+              {
+                "title": "DCL & TCL",
+                "children": []
+              },
+              {
+                "title": "Desc & Show Tables",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.9.5 Order By & Rename Operation (Alias)",
+            "children": [
+              {
+                "title": "Order By & Rename Operation (Alias)",
+                "children": []
+              },
+              {
+                "title": "Order by clause",
+                "children": []
+              },
+              {
+                "title": "Rename Operations",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.9.6 Library Functions (Math, Aggregate, String, Date)",
+            "children": [
+              {
+                "title": "Library Functions (Math, Aggregate, String, Date)",
+                "children": []
+              },
+              {
+                "title": "Aggregate Functions",
+                "children": []
+              },
+              {
+                "title": "String Operations in SQL",
+                "children": []
+              },
+              {
+                "title": "String Function",
+                "children": []
+              },
+              {
+                "title": "Numeric & Math Functions",
+                "children": []
+              },
+              {
+                "title": "Date & Time Functions",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.9.7 Set Operations & Cartesian Product",
+            "children": [
+              {
+                "title": "Set Operations & Cartesian Product",
+                "children": []
+              },
+              {
+                "title": "Set Operations In SQL",
+                "children": []
+              },
+              {
+                "title": "Cartesian Product In SQL Part-1",
+                "children": []
+              },
+              {
+                "title": "Cartesian Product In SQL Part-2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.9.8 Join Operations (Inner & Outer)",
+            "children": [
+              {
+                "title": "Join Operations (Inner & Outer)",
+                "children": []
+              },
+              {
+                "title": "Natural Join",
+                "children": []
+              },
+              {
+                "title": "Join With Using",
+                "children": []
+              },
+              {
+                "title": "Different Versions Of Natural Join",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.9.9 Group By Clause",
+            "children": [
+              {
+                "title": "Group By Clause",
+                "children": []
+              },
+              {
+                "title": "Group by Clause",
+                "children": []
+              },
+              {
+                "title": "SQL query",
+                "children": []
+              },
+              {
+                "title": "Group By Cont...",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.9.10 Nested & Correlated Subqueries",
+            "children": [
+              {
+                "title": "Nested & Correlated Subqueries",
+                "children": []
+              },
+              {
+                "title": "Introduction - Part 1",
+                "children": []
+              },
+              {
+                "title": "Introduction - Part 2",
+                "children": []
+              },
+              {
+                "title": "Correlated Introduction",
+                "children": []
+              },
+              {
+                "title": "Practice Question - Correlated Subquery",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5.10 Relational Calculus",
+        "children": [
+          {
+            "title": "5.10.1 Tuple Relational Calculus (TRC)",
+            "children": [
+              {
+                "title": "Tuple Relational Calculus (TRC)",
+                "children": []
+              },
+              {
+                "title": "Introduction to Tuple Relational Calculus",
+                "children": []
+              },
+              {
+                "title": "Tuple Relational Calculus Practice",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.10.2 Domain Relational Calculus (DRC)",
+            "children": [
+              {
+                "title": "Domain Relational Calculus (DRC)",
+                "children": []
+              },
+              {
+                "title": "Introduction to Domain Relational Calculus",
+                "children": []
+              },
+              {
+                "title": "Domain Relational Calculus Practice Questions",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.10.3 Safety of Expressions & Power",
+            "children": [
+              {
+                "title": "Safety of Expressions and Power",
+                "children": []
+              },
+              {
+                "title": "Power of TRC & Safe TRC",
+                "children": []
+              },
+              {
+                "title": "Power of DRC & safe DRC",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5.11 Transaction Management",
+        "children": [
+          {
+            "title": "5.11.1 Introduction & ACID Properties",
+            "children": [
+              {
+                "title": "Introduction & ACID Properties",
+                "children": []
+              },
+              {
+                "title": "What is Transaction",
+                "children": []
+              },
+              {
+                "title": "Fundamental Operations On DBMS",
+                "children": []
+              },
+              {
+                "title": "ACID Properties of Transaction",
+                "children": []
+              },
+              {
+                "title": "Isolation Property",
+                "children": []
+              },
+              {
+                "title": "Durability Property",
+                "children": []
+              },
+              {
+                "title": "Consistency Property",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.11.2 Transaction States",
+            "children": [
+              {
+                "title": "Transaction States",
+                "children": []
+              },
+              {
+                "title": "Transaction States",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.11.3 Concurrency Problems",
+            "children": [
+              {
+                "title": "Concurrency Problems",
+                "children": []
+              },
+              {
+                "title": "Problem With Concurrent Execution",
+                "children": []
+              },
+              {
+                "title": "Lost Update Problem",
+                "children": []
+              },
+              {
+                "title": "Dirty Read Problem",
+                "children": []
+              },
+              {
+                "title": "Unrepeatable Read Problem",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.11.4 Schedules & Conflict Serializability",
+            "children": [
+              {
+                "title": "Schedules & Conflict Serializability",
+                "children": []
+              },
+              {
+                "title": "What is Schedule",
+                "children": []
+              },
+              {
+                "title": "Serial Schedule",
+                "children": []
+              },
+              {
+                "title": "Non-Serial Schedule",
+                "children": []
+              },
+              {
+                "title": "Conclusion Of Schedule",
+                "children": []
+              },
+              {
+                "title": "Conflict Serializable",
+                "children": []
+              },
+              {
+                "title": "Conflict Equivalent Schedule",
+                "children": []
+              },
+              {
+                "title": "Procedure for determining conflict serializability of a schedule",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.11.5 View Serializability",
+            "children": [
+              {
+                "title": "View Serializability",
+                "children": []
+              },
+              {
+                "title": "view serializability Part-1",
+                "children": []
+              },
+              {
+                "title": "view serializability Part-2",
+                "children": []
+              },
+              {
+                "title": "Practice Questions on View Serializability",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.11.6 Recoverability, Cascadeless & Strict Schedules",
+            "children": [
+              {
+                "title": "Recoverability, Cascadeless & Strict Schedules",
+                "children": []
+              },
+              {
+                "title": "Recoverable Schedule",
+                "children": []
+              },
+              {
+                "title": "Cascadeless Schedule",
+                "children": []
+              },
+              {
+                "title": "Strict Schedule",
+                "children": []
+              },
+              {
+                "title": "Recoverability, Cascadeless & Strict Schedules",
+                "children": []
+              },
+              {
+                "title": "Practice Questions on Recoverability, Cascadeless & Strict Schedules",
+                "children": []
+              },
+              {
+                "title": "Practice Question",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5.12 Concurrency Control",
+        "children": [
+          {
+            "title": "5.12.1 Introduction to Concurrency Control",
+            "children": [
+              {
+                "title": "Introduction to Concurrency Control",
+                "children": []
+              },
+              {
+                "title": "Idea of Concurrency control",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.12.2 Lock-Based Protocols & Basic 2PL",
+            "children": [
+              {
+                "title": "Lock-Based Protocols & Basic 2PL",
+                "children": []
+              },
+              {
+                "title": "Locked based protocols",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "5.12.3 Variations of 2PL (Strict, Rigorous, Conservative)",
+            "children": [
+              {
+                "title": "Variations of 2PL (Strict, Rigorous, Conservative)",
+                "children": []
+              },
+              {
+                "title": "Basic 2PL",
+                "children": []
+              },
+              {
+                "title": "Conservative 2PL",
+                "children": []
+              },
+              {
+                "title": "Rigorous 2PL",
+                "children": []
+              },
+              {
+                "title": "Strict 2PL",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "6 Algorithms",
+    "children": [
+      {
+        "title": "6.1 Algorithm Analysis",
+        "children": [
+          {
+            "title": "6.1.1 Algo Basics & Analysis",
+            "children": []
+          },
+          {
+            "title": "6.1.2 Asymptotic Notations",
+            "children": []
+          },
+          {
+            "title": "6.1.3 Growth Rate Comparisons",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "6.2 Time Complexity Analysis",
+        "children": [
+          {
+            "title": "6.2.1 Iterative Loops & Code",
+            "children": []
+          },
+          {
+            "title": "6.2.2 Master Theorem",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "6.3 Sorting Algorithms",
+        "children": [
+          {
+            "title": "6.3.1 Introduction to Sorting",
+            "children": []
+          },
+          {
+            "title": "6.3.2 Selection Sort",
+            "children": []
+          },
+          {
+            "title": "6.3.3 Bubble Sort",
+            "children": []
+          },
+          {
+            "title": "6.3.4 Insertion Sort",
+            "children": []
+          },
+          {
+            "title": "6.3.5 Merge Sort",
+            "children": []
+          },
+          {
+            "title": "6.3.6 Heap Sort",
+            "children": []
+          },
+          {
+            "title": "6.3.7 Quick Sort",
+            "children": []
+          },
+          {
+            "title": "6.3.8 Radix & Counting Sort",
+            "children": []
+          },
+          {
+            "title": "6.3.9 Comparisons & Searching",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "6.4 Greedy Algorithms",
+        "children": [
+          {
+            "title": "6.4.1 Greedy Basics & Huffman",
+            "children": []
+          },
+          {
+            "title": "6.4.2 Optimal Merge Pattern",
+            "children": []
+          },
+          {
+            "title": "6.4.3 Fractional Knapsack",
+            "children": []
+          },
+          {
+            "title": "6.4.4 Job & Activity Selection",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "6.5 Dynamic Programming",
+        "children": [
+          {
+            "title": "6.5.1 Introduction to DP",
+            "children": []
+          },
+          {
+            "title": "6.5.2 LCS & Subsequences",
+            "children": []
+          },
+          {
+            "title": "6.5.3 Matrix Chain Order",
+            "children": []
+          },
+          {
+            "title": "6.5.4 Floyd & Subset Sum",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "6.6 Minimum Spanning Trees",
+        "children": [
+          {
+            "title": "6.6.1 MST & Kruskal's Algo",
+            "children": []
+          },
+          {
+            "title": "6.6.2 MST & Prim's Algo",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "6.7 Shortest Path Algos",
+        "children": [
+          {
+            "title": "6.7.1 Dijkstra's Algorithm",
+            "children": []
+          },
+          {
+            "title": "6.7.2 Bellman-Ford Algo",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "7 Theory of Computation",
+    "children": [
+      {
+        "title": "7.1 Introduction to TOC",
+        "children": [
+          {
+            "title": "7.1.1 Basics & String Ops",
+            "children": []
+          },
+          {
+            "title": "7.1.2 Language Ops & Sets",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "7.2 Deterministic FA (DFA)",
+        "children": [
+          {
+            "title": "7.2.1 DFA Basics & Definitions",
+            "children": []
+          },
+          {
+            "title": "7.2.2 DFA Construction & Design",
+            "children": []
+          },
+          {
+            "title": "7.2.3 Complement & Minimization",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "7.3 Non-Deterministic FA",
+        "children": [
+          {
+            "title": "7.3.1 NFA Basics & Design",
+            "children": []
+          },
+          {
+            "title": "7.3.2 NFA to DFA Conversion",
+            "children": []
+          },
+          {
+            "title": "7.3.3 Epsilon NFA & Conversion",
+            "children": []
+          },
+          {
+            "title": "7.3.4 Regularity & Identification",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "7.4 Regular Expressions",
+        "children": [
+          {
+            "title": "7.4.1 Regex Basics & Definitions",
+            "children": []
+          },
+          {
+            "title": "7.4.2 Regex Design & Algebra",
+            "children": []
+          },
+          {
+            "title": "7.4.3 FA to Regex Conversion",
+            "children": []
+          },
+          {
+            "title": "7.4.4 Regex & FA Equivalence",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "7.5 Grammar",
+        "children": [
+          {
+            "title": "7.5.1 Chomsky & Basics",
+            "children": []
+          },
+          {
+            "title": "7.5.2 Grammar Design via Regex",
+            "children": []
+          },
+          {
+            "title": "7.5.3 Regular Grammar & FA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "7.6 Regular Language Properties",
+        "children": [
+          {
+            "title": "7.6.1 Decidability & Basics",
+            "children": []
+          },
+          {
+            "title": "7.6.2 Closure Properties",
+            "children": []
+          },
+          {
+            "title": "7.6.3 Pumping Lemma",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "7.7 Moore & Mealy Machines",
+        "children": [
+          {
+            "title": "7.7.1 Basics & Moore Machine",
+            "children": []
+          },
+          {
+            "title": "7.7.2 Mealy Machine",
+            "children": []
+          },
+          {
+            "title": "7.7.3 Conversion & Equivalence",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "7.8 Pushdown Automata & CFG",
+        "children": [
+          {
+            "title": "7.8.1 PDA Design & Basics",
+            "children": []
+          },
+          {
+            "title": "7.8.2 CFL Identification",
+            "children": []
+          },
+          {
+            "title": "7.8.3 Context-Free Grammars",
+            "children": []
+          },
+          {
+            "title": "7.8.4 Decision Properties",
+            "children": []
+          },
+          {
+            "title": "7.8.5 Closure Properties",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "7.9 Turing Machines",
+        "children": [
+          {
+            "title": "7.9.1 TM Basics & Design",
+            "children": []
+          },
+          {
+            "title": "7.9.2 TM Variations & UTM",
+            "children": []
+          },
+          {
+            "title": "7.9.3 Decision Properties",
+            "children": []
+          },
+          {
+            "title": "7.9.4 Closure Properties",
+            "children": []
+          },
+          {
+            "title": "7.9.5 Linear Bounded Automata",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "7.10 Complexity Theory",
+        "children": [
+          {
+            "title": "7.10.1 P, NP & Reducibility",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "8. Compiler Design",
+    "children": [
+      {
+        "title": "8.1 Intro to Compilers",
+        "children": [
+          {
+            "title": "8.1.1 Lang Processing System",
+            "children": []
+          },
+          {
+            "title": "8.1.2 Phases of Compiler",
+            "children": []
+          },
+          {
+            "title": "8.1.3 Sym Table, Errors & Passes",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "8.2 Lexical Analysis",
+        "children": [
+          {
+            "title": "8.2.1 Lexical Analysis & Tokens",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "8.3 Grammar & CFG",
+        "children": [
+          {
+            "title": "8.3.1 Grammar Basics & Chomsky",
+            "children": []
+          },
+          {
+            "title": "8.3.2 Derivation & Recursion",
+            "children": []
+          },
+          {
+            "title": "8.3.3 Ambiguity & Inherent Amb",
+            "children": []
+          },
+          {
+            "title": "8.3.4 Left Factoring & Prefixes",
+            "children": []
+          },
+          {
+            "title": "8.3.5 Simplification of CFG",
+            "children": []
+          },
+          {
+            "title": "8.3.6 Normal Forms & BNF",
+            "children": []
+          },
+          {
+            "title": "8.3.7 Decidability & CYK Algo",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "8.4 Syntax Analysis: Top-Down",
+        "children": [
+          {
+            "title": "8.4.1 Parser Basics & Top-Down",
+            "children": []
+          },
+          {
+            "title": "8.4.2 First and Follow Sets",
+            "children": []
+          },
+          {
+            "title": "8.4.3 LL(1) Parser & Table",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "8.5 Syntax Analysis: Bottom-Up",
+        "children": [
+          {
+            "title": "8.5.1 Intro to Bottom-Up & LR(0)",
+            "children": []
+          },
+          {
+            "title": "8.5.2 SLR(1) Parser & Conflicts",
+            "children": []
+          },
+          {
+            "title": "8.5.3 CLR(1) Parser & Items",
+            "children": []
+          },
+          {
+            "title": "8.5.4 LALR(1) Parser & Merging",
+            "children": []
+          },
+          {
+            "title": "8.5.5 Operator Precedence",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "8.6 Semantic Analysis & SDT",
+        "children": [
+          {
+            "title": "8.6.1 Semantic Analysis & SDT",
+            "children": []
+          },
+          {
+            "title": "8.6.2 Attributes & SDT Types",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "8.7 Intermediate Code Gen",
+        "children": [
+          {
+            "title": "8.7.1 3AC, Quads & Triples",
+            "children": []
+          },
+          {
+            "title": "8.7.2 SSA",
+            "children": []
+          },
+          {
+            "title": "8.7.3 Basic Blocks & CFG",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "8.8 Code Optimization",
+        "children": [
+          {
+            "title": "8.8.1 Blocks, Loops & Methods",
+            "children": []
+          },
+          {
+            "title": "8.8.2 Liveness Analysis",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "8.9 Run Time Environment",
+        "children": [
+          {
+            "title": "8.9.1 Runtime Memory Organization",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "9. Operating System",
+    "children": [
+      {
+        "title": "9.1 Introduction to OS",
+        "children": [
+          {
+            "title": "9.1.1 OS Basics & Goals",
+            "children": []
+          },
+          {
+            "title": "9.1.2 OS Types & Evolution",
+            "children": []
+          },
+          {
+            "title": "9.1.3 OS Structure & Interface",
+            "children": []
+          },
+          {
+            "title": "9.1.4 System Calls & Dual Mode",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "9.2 Process Management",
+        "children": [
+          {
+            "title": "9.2.1 Process Basics & PCB",
+            "children": []
+          },
+          {
+            "title": "9.2.2 Process State & Lifecycle",
+            "children": []
+          },
+          {
+            "title": "9.2.3 Schedulers & Switching",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "9.3 CPU Scheduling",
+        "children": [
+          {
+            "title": "9.3.1 Basics & Criteria",
+            "children": []
+          },
+          {
+            "title": "9.3.2 FCFS Scheduling",
+            "children": []
+          },
+          {
+            "title": "9.3.3 SJF & SRTF Scheduling",
+            "children": []
+          },
+          {
+            "title": "9.3.4 Priority Scheduling",
+            "children": []
+          },
+          {
+            "title": "9.3.5 Round Robin Scheduling",
+            "children": []
+          },
+          {
+            "title": "9.3.6 LJF & HRRN",
+            "children": []
+          },
+          {
+            "title": "9.3.7 Multilevel Queues",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "9.4 Process Synchronization",
+        "children": [
+          {
+            "title": "9.4.1 Intro & Critical Section",
+            "children": []
+          },
+          {
+            "title": "9.4.2 Two Process Solutions",
+            "children": []
+          },
+          {
+            "title": "9.4.3 Semaphores & Ordering",
+            "children": []
+          },
+          {
+            "title": "9.4.4 Classical Problems",
+            "children": []
+          },
+          {
+            "title": "9.4.5 Types of Semaphores",
+            "children": []
+          },
+          {
+            "title": "9.4.6 Hardware Synchronization",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "9.5 Threads & Process Creation",
+        "children": [
+          {
+            "title": "9.5.1 Fork System Call",
+            "children": []
+          },
+          {
+            "title": "9.5.2 Threading & Models",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "9.6 Deadlock",
+        "children": [
+          {
+            "title": "9.6.1 Basics & Conditions",
+            "children": []
+          },
+          {
+            "title": "9.6.2 Deadlock Prevention",
+            "children": []
+          },
+          {
+            "title": "9.6.3 Avoidance & Banker's Algo",
+            "children": []
+          },
+          {
+            "title": "9.6.4 Detection & Recovery",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "9.7 Memory Management",
+        "children": [
+          {
+            "title": "9.7.1 Basics & Hierarchy",
+            "children": []
+          },
+          {
+            "title": "9.7.2 Contiguous Allocation",
+            "children": []
+          },
+          {
+            "title": "9.7.3 Paging & TLB",
+            "children": []
+          },
+          {
+            "title": "9.7.4 Multilevel Paging",
+            "children": []
+          },
+          {
+            "title": "9.7.5 Segmentation & Hybrid",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "9.8 Virtual Memory",
+        "children": [
+          {
+            "title": "9.8.1 Demand Paging Basics",
+            "children": []
+          },
+          {
+            "title": "9.8.2 FIFO Page Replacement",
+            "children": []
+          },
+          {
+            "title": "9.8.3 Optimal Replacement",
+            "children": []
+          },
+          {
+            "title": "9.8.4 LRU Page Replacement",
+            "children": []
+          },
+          {
+            "title": "9.8.5 Stack & Counting Algos",
+            "children": []
+          },
+          {
+            "title": "9.8.6 Thrashing & Allocation",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "9.9 Disc Scheduling",
+        "children": [
+          {
+            "title": "9.9.1 FCFS & SSTF Scheduling",
+            "children": []
+          },
+          {
+            "title": "9.9.2 SCAN & C-SCAN Algos",
+            "children": []
+          },
+          {
+            "title": "9.9.3 LOOK & C-LOOK Algos",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "9.10 File Management",
+        "children": [
+          {
+            "title": "9.10.1 File Allocation Methods",
+            "children": []
+          },
+          {
+            "title": "9.10.2 Free Space Management",
+            "children": []
+          },
+          {
+            "title": "9.10.3 Directories & Structure",
+            "children": []
+          },
+          {
+            "title": "9.10.4 Storage & RAID Management",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "10. Computer Networks",
+    "children": [
+      {
+        "title": "10.1 Introduction to CN",
+        "children": [
+          {
+            "title": "10.1.1 Basics & Criteria",
+            "children": []
+          },
+          {
+            "title": "10.1.2 Modes & Connections",
+            "children": []
+          },
+          {
+            "title": "10.1.3 Network Topologies",
+            "children": []
+          },
+          {
+            "title": "10.1.4 Types of Networks",
+            "children": []
+          },
+          {
+            "title": "10.1.5 Switching Techniques",
+            "children": []
+          },
+          {
+            "title": "10.1.6 Transmission Media",
+            "children": []
+          },
+          {
+            "title": "10.1.7 OSI Model & Layers",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "10.2 DLL: Access Control",
+        "children": [
+          {
+            "title": "10.2.1 DLL Overview & MAC",
+            "children": []
+          },
+          {
+            "title": "10.2.2 ALOHA Protocols",
+            "children": []
+          },
+          {
+            "title": "10.2.3 CSMA Variants",
+            "children": []
+          },
+          {
+            "title": "10.2.4 CSMA/CD",
+            "children": []
+          },
+          {
+            "title": "10.2.5 CSMA/CA (Wireless)",
+            "children": []
+          },
+          {
+            "title": "10.2.6 Controlled Access",
+            "children": []
+          },
+          {
+            "title": "10.2.7 Channelization",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "10.3 DLL: Flow Control",
+        "children": [
+          {
+            "title": "10.3.1 Basics & Delay Analysis",
+            "children": []
+          },
+          {
+            "title": "10.3.2 Stop-and-Wait ARQ",
+            "children": []
+          },
+          {
+            "title": "10.3.3 Go-Back-N Protocol",
+            "children": []
+          },
+          {
+            "title": "10.3.4 Selective Repeat ARQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "10.4 DLL: Error Control",
+        "children": [
+          {
+            "title": "10.4.1 Basics & Hamming Dist",
+            "children": []
+          },
+          {
+            "title": "10.4.2 Linear Block Codes",
+            "children": []
+          },
+          {
+            "title": "10.4.3 Checksum & CRC",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "10.5 DLL: Framing",
+        "children": [
+          {
+            "title": "10.5.1 Intro & Byte Stuffing",
+            "children": []
+          },
+          {
+            "title": "10.5.2 Bit Stuffing Algo",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "10.6 Data Link Layer - Ethernet",
+        "children": [
+          {
+            "title": "10.6.1 Overview and Evolution of Ethernet – IEEE 802.3",
+            "children": []
+          },
+          {
+            "title": "10.6.2 Ethernet Frame Format – Preamble, SFD",
+            "children": []
+          },
+          {
+            "title": "10.6.3 Manchester Encoding – G.E. Thomas, IEEE, and Differential Manchester Schemes",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "10.7 Net Layer: IPv4 & Proto",
+        "children": [
+          {
+            "title": "10.7.1 Net Layer & IPv4 Basics",
+            "children": []
+          },
+          {
+            "title": "10.7.2 Fragmentation & MTU",
+            "children": []
+          },
+          {
+            "title": "10.7.3 TTL, Protocol & Checksum",
+            "children": []
+          },
+          {
+            "title": "10.7.4 IP Options & Padding",
+            "children": []
+          },
+          {
+            "title": "10.7.5 Net Layer Protocols",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "10.8 Net Layer: IP Addressing",
+        "children": [
+          {
+            "title": "10.8.1 Classful Addr & Casting",
+            "children": []
+          },
+          {
+            "title": "10.8.2 Subnetting & FLSM Design",
+            "children": []
+          },
+          {
+            "title": "10.8.3 CIDR & VLSM",
+            "children": []
+          },
+          {
+            "title": "10.8.4 Supernetting & Spl IPs",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "10.9 Net Layer:Routing Protocol",
+        "children": [
+          {
+            "title": "10.9.1 Routing Basics & Flooding",
+            "children": []
+          },
+          {
+            "title": "10.9.2 DVR, RIP & Split Horizon",
+            "children": []
+          },
+          {
+            "title": "10.9.3 LSR, OSPF & Comparison",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "10.10 Transport Layer Services",
+        "children": [
+          {
+            "title": "10.10.1 Services, Ports & UDP/TCP",
+            "children": []
+          },
+          {
+            "title": "10.10.2 TCP Header & Fields",
+            "children": []
+          },
+          {
+            "title": "10.10.3 Conn. Mgmt & Reliability",
+            "children": []
+          },
+          {
+            "title": "10.10.4 TCP State Transition Diag",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "10.11 TL: Congestion & UDP",
+        "children": [
+          {
+            "title": "10.11.1 Congestion Control Policy",
+            "children": []
+          },
+          {
+            "title": "10.11.2 Timers, RTT & SWS",
+            "children": []
+          },
+          {
+            "title": "10.11.3 UNIX Socket Programming",
+            "children": []
+          },
+          {
+            "title": "10.11.4 UDP Protocol & Header",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "10.12 Application Layer",
+        "children": [
+          {
+            "title": "10.12.1 Email: SMTP, POP & IMAP",
+            "children": []
+          },
+          {
+            "title": "10.12.2 HTTP Protocol",
+            "children": []
+          },
+          {
+            "title": "10.12.3 FTP, DNS & Telnet",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "10.13 Hardware Basics",
+        "children": [
+          {
+            "title": "10.13.1 Repeater, Hub, Bridge & Switch",
+            "children": []
+          },
+          {
+            "title": "10.13.2 Router & Gateway",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
