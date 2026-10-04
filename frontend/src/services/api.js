@@ -1,4 +1,6 @@
-const API_BASE_URL = "http://10.200.103.103:5000/api";
+const API_BASE_URL =
+    import.meta.env.VITE_API_BASE_URL ||
+    "http://10.200.103.103:5000/api";
 
 
 // ==========================================
@@ -199,6 +201,8 @@ export const getQuestions = async ({
     return await response.json();
 
 };
+
+
 // ==========================================
 // REPORT / CORRECT QUESTION ANSWER
 // ==========================================
